@@ -1,17 +1,1 @@
-RECONHECE AI
-
-Objetivo: O objetivo do projeto é automatizar à chamada utilizando reconhecimento facial.
-Persona:
-Aluno (Carlos): Carlos é um aluno do SENAI do segundo ano do ensino médio tem 16 anos e faz um curso técnico integrado com a sua escola. Quando ele chega na sala de aula, ele faz o reconhecimento facial assim garantindo a sua presença na aula não havendo necessidade de o professor realizar a chamada oralmente, evitando falhas humanas. 
-
-Professor (Eduardo): Eduardo é um homem de 40 anos que trabalha como professor do SENAI, o transporte do professor é publico o que pode acarretar atraso na sua chegada na escola. Quando ele chega na sala a primeira coisa que ele faz é ver quanto dos seus alunos estão presente na aula utilizando a lista de chamada digital por reconhecimento facial. O uso da chamada digital facilita muito o seu dia a dia pois como ele chega atrasado diariamente, não perde mais tempo de aula fazendo chamada oral.
-
-Solução:
-A chamada por reconhecimento facial vai solucionar vários problemas como    o tempo perdido pelo professor na hora de realizar a chamada, erros humanos como dar presença para alguém que faltou ou falta para alguém presente na aula, além de facilitar a vida dos alunos.
-
-Tecnologias usadas:
-- node.js
-- react native
-- expo
-- android studio
--yolov8
+📑 RECONHECE AI: Chamada Inteligente🎯 Objetivo do ProjetoAutomatizar o processo de controle de frequência escolar utilizando reconhecimento facial, otimizando o tempo em sala de aula e eliminando falhas humanas no registro de presença.👥 Personas🧑‍🎓 O AlunoNome: Carlos, 16 anosPerfil: Aluno do 2º ano do Ensino Médio Técnico Integrado no SENAI.Jornada: Ao entrar na sala de aula, Carlos valida sua presença instantaneamente através do reconhecimento facial. Ele não precisa interromper a aula e tem a garantia de que sua presença foi registrada corretamente.👨‍🏫 O ProfessorNome: Eduardo, 40 anosPerfil: Professor do SENAI, usuário de transporte público (sujeito a imprevistos e atrasos).Jornada: Ao chegar na sala, Eduardo acessa a lista de chamada digital. Como o sistema já computou a presença dos alunos, ele não perde os minutos iniciais da aula com chamadas orais, conseguindo iniciar o conteúdo imediatamente e recuperar o tempo do deslocamento.💡 A SoluçãoO RECONHECE AI transforma a rotina da sala de aula ao substituir a chamada tradicional por um ecossistema inteligente.Benefícios Centralizados:Economia de Tempo: Elimina os 10 a 15 minutos gastos diariamente com chamadas orais.Precisão Impecável: Reduz a zero os erros humanos (como dar presença para alunos ausentes ou esquecer de registrar quem veio).Praticidade e Modernidade: Interface fluida para alunos e relatórios em tempo real para os professores.🛠️ Arquitetura TecnológicaO projeto une o que há de melhor em desenvolvimento mobile e inteligência artificial:TecnologiaFunção no ProjetoYOLOv8O "cérebro" de IA. Modelo de Visão Computacional de última geração usado para detectar e reconhecer os rostos dos alunos com alta precisão e velocidade.React Native + ExpoO aplicativo mobile. Permite criar uma interface moderna, rápida e multiplataforma para os usuários.Node.jsO ecossistema do servidor (Back-end) que gerencia as requisições, processa os dados de presença e comunica-se com o banco de dados.Android StudioAmbiente de desenvolvimento essencial para emulação, testes e deploy do aplicativo em dispositivos Android.
