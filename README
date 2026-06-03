@@ -1,0 +1,17 @@
+RECONHECE AI
+
+Objetivo: O objetivo do projeto é automatizar à chamada utilizando reconhecimento facial.
+Persona:
+Aluno (Carlos): Carlos é um aluno do SENAI do segundo ano do ensino médio tem 16 anos e faz um curso técnico integrado com a sua escola. Quando ele chega na sala de aula, ele faz o reconhecimento facial assim garantindo a sua presença na aula não havendo necessidade de o professor realizar a chamada oralmente, evitando falhas humanas. 
+
+Professor (Eduardo): Eduardo é um homem de 40 anos que trabalha como professor do SENAI, o transporte do professor é publico o que pode acarretar atraso na sua chegada na escola. Quando ele chega na sala a primeira coisa que ele faz é ver quanto dos seus alunos estão presente na aula utilizando a lista de chamada digital por reconhecimento facial. O uso da chamada digital facilita muito o seu dia a dia pois como ele chega atrasado diariamente, não perde mais tempo de aula fazendo chamada oral.
+
+Solução:
+A chamada por reconhecimento facial vai solucionar vários problemas como    o tempo perdido pelo professor na hora de realizar a chamada, erros humanos como dar presença para alguém que faltou ou falta para alguém presente na aula, além de facilitar a vida dos alunos.
+
+Tecnologias usadas:
+- node.js
+- react native
+- expo
+- android studio
+-yolov8
